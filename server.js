@@ -1,9 +1,9 @@
 //get all the tools
 var express = require('express');
-var routes = require('./routes/index.js');
+//var routes = require('./routes/index.js');
 var port = 3000;
 
-//
+//fake posts
 const posts = [
   {
     id: 1,
